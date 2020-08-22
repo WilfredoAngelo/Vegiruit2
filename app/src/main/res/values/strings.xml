@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Vegiruit</string>
+    <string name="name">Name :</string>
+    <string name="surname">Surname :</string>
+    <string name="products">Products :</string>
+    <string name="add_data">Add DAta</string>
+    <string name="view_all">View all</string>
+</resources>
